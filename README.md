@@ -5,7 +5,7 @@ This Specialization provides a case-based introduction to the exciting, high-dem
 ##Courses
 
 ##A Case Study Approach
-===
+
 Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  Do you want to be able to converse with specialists about anything from regression and classification to deep learning and recommender systems?
 
 In this course, you will get hands-on experience with machine learning from a series of practical case-studies.  At the end of the first course you will have studied how to predict house prices based on house-level features, analyze sentiment from user reviews, retrieve documents of interest, recommend products, and search for images.  Through hands-on practice with these use cases, you will be able to apply machine learning methods in a wide range of domains.
@@ -42,7 +42,7 @@ Learning Outcomes:  By the end of this course, you will be able to:
    
    
 ##Regression
-===   
+
 Case Study - Predicting Housing Prices
 
 In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
