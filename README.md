@@ -39,10 +39,10 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Utilize a dataset to fit a model to analyze new data.
    -Build an end-to-end application that uses machine learning at its core.  
    -Implement these techniques in Python.
-=   
+   
    
 ###Regression
-   
+====   
 Case Study - Predicting Housing Prices
 
 In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
