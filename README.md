@@ -4,7 +4,7 @@ This Specialization provides a case-based introduction to the exciting, high-dem
 
 ##Courses
 
-###A Case Study Approach
+##A Case Study Approach
 ===
 Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  Do you want to be able to converse with specialists about anything from regression and classification to deep learning and recommender systems?
 
@@ -41,7 +41,7 @@ Learning Outcomes:  By the end of this course, you will be able to:
    -Implement these techniques in Python.
    
    
-###Regression
+##Regression
 ===   
 Case Study - Predicting Housing Prices
 
