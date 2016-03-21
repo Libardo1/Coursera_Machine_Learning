@@ -4,8 +4,8 @@ This Specialization provides a case-based introduction to the exciting, high-dem
 
 The links below are links to the various classes (and my corresponding coursework) in the specialization. 
 
-* Machine Learning Foundations
-* Regression
+* [Machine Learning Foundations](https://github.com/snazrul1/Coursera_Machine_Learning/tree/master/Machine%20Learning%20Foundations)
+* [Regression](https://github.com/snazrul1/Coursera_Machine_Learning/tree/master/Regression)
 * Classification Coming 
 * Clustering & Retrieval
 * Recommender Systems & Dimensionality Reduction 
